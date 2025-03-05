@@ -8,7 +8,7 @@ Afinal, a tecnologia pode ser a ponte entre os sonhos e a realidade, e eu estou 
 
 
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/NajuBrondino?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -23,6 +23,16 @@ Afinal, a tecnologia pode ser a ponte entre os sonhos e a realidade, e eu estou 
             src="https://custom-icon-badges.demolab.com/github/followers/NajuBrondino?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://instagram.com/NajuBrondino">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  
+    alt="Instagram"
+    title="Veja meu perfil do Instagram" target="_blank">
+</a>
+   <a href="https://discord.gg/VFmvQVaM" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
+    alt="Discord"
+    title="Entre no meu Discord" target="_blank">
+</a> 
 </p>
 
 ---
